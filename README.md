@@ -1,9 +1,11 @@
+# Hi there, I’m @Jideotetic 👋
+
+**Here's a quick summary about me**:
 
 
 
 
-
-- 👋 Hi, I’m @Jideotetic
+-  Hi, 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
