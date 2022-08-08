@@ -1,7 +1,15 @@
+
+
+
+
+
 - 👋 Hi, I’m @Jideotetic
-- 👀 I’m interested in frontend engineering
-- 🌱 I’m currently learning software development at Altschool Africa 
-- 💞️ I’m looking to collaborate on any project so as to solidify my knowledge of HTML & CSS
+- 😊 Pronouns: He/him
+- 💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Front Engineer (Intern or Junior level).
+- 📫 You can view my resume and contact me by emailing mailtojideotetic@gmail.com
 - 📫 You can reach me on twitter at https://mobile.twitter.com/habdulbasheet
 
 <!---
