@@ -9,7 +9,7 @@ Highly motivated software engineer in training with a flair for developing inter
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtojideotetic@gmail.com
+- 📫 You can [view my resume](https://github.com/Jideotetic) and contact me by emailing mailtojideotetic@gmail.com
 - 📫 You can reach me on twitter at [@habdulbasheet](https://mobile.twitter.com/habdulbasheet)
 
 <!---
