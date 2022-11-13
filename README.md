@@ -12,7 +12,7 @@ Highly motivated software engineer in training with a flair for developing inter
 - 💼 Job interests: Front Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://github.com/Jideotetic) and contact me by emailing mailtojideotetic@gmail.com
 - 📫 You can reach me on twitter at [@habdulbasheet](https://mobile.twitter.com/habdulbasheet)
-- [![Jideotetic's GitHub stats](https://github-readme-stats.vercel.app/api?username=jideotetic)(https://github.com/jideotetic/github-readme-stats)
+- [![Jideotetic's GitHub stats](https://github-readme-stats.vercel.app/api?username=jideotetic)](https://github.com/jideotetic/github-readme-stats)
 
 ---
 
