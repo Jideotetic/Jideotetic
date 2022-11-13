@@ -19,6 +19,7 @@ Highly motivated software engineer in training with a flair for developing inter
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=jideotetic&show_icons=true&include_all_commits=true&hide_border=true" alt="Abdulbasit's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jideotetic&langs_count=8&layout=compact&hide_border=true" alt="Abdulbasit's GitHub stats" /> |
+| ------------- | ------------- |
 
 
 <!---
