@@ -27,7 +27,3 @@ Highly motivated software engineer in training with a flair for developing inter
 Jideotetic/Jideotetic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# Jide
-
-# Jide
