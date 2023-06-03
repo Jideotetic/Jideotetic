@@ -5,7 +5,7 @@
 <!-- [![@jideotetic's Holopin board](https://holopin.me/jideotetic)](https://holopin.io/@jideotetic) -->
 
 
-Highly motivated Front-End developer in training seeking entry level role, interested in building responsive, interactive, accessible and search engine optimized web. Skilled with HTML5, CSS3, JavaScript, Git & Github, React and D3.js
+Highly motivated Front-end developer in training seeking entry level role, interested in building responsive, interactive, accessible and search engine optimized web. Skilled with HTML5, CSS3, JavaScript, Git & Github, React and D3.js
 
 **Here's a quick summary about me**:
 
