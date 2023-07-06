@@ -11,7 +11,7 @@ I am a highly motivated Front-end developer in training seeking entry level role
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front-end Developer (Intern or Junior level).
 - 📫 You can contact me by emailing mailtojideotetic@gmail.com
-- 📫 My portfolio is at [jideotetic..github.io](https://jideotetic.github.io/)
+- 📫 My portfolio is at [jideotetic.github.io](https://jideotetic.github.io/)
 - 📫 You can reach me on twitter at [@habdulbasheet](https://mobile.twitter.com/habdulbasheet)
 - 📫 You can reach me on linkedin at [Jideotetic](https://www.linkedin.com/in/jideotetic/)
 
