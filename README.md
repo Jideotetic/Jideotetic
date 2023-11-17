@@ -1,10 +1,10 @@
 # Hi there, I’m Abdulbasit Yusuf
 
-![](https://komarev.com/ghpvc/?username=jideotetic&style=for-the-badge) [![Twitter Badge](https://img.shields.io/badge/-@habdulbasheet-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/habdulbasheet)](https://twitter.com/habdulbasheet)  [![Linkedin Badge](https://img.shields.io/badge/-jideotetic-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jideotetic)](https://www.linkedin.com/in/jideotetic) 
+![](https://komarev.com/ghpvc/?username=jideotetic&style=for-the-badge) [![Twitter Badge](https://img.shields.io/badge/-@jideotetic-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/habdulbasheet)](https://twitter.com/jideotetic)  [![Linkedin Badge](https://img.shields.io/badge/-jideotetic-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jideotetic)](https://www.linkedin.com/in/jideotetic) 
 
 <!-- [![@jideotetic's Holopin board](https://holopin.me/jideotetic)](https://holopin.io/@jideotetic) -->
 
-I am a highly motivated Front-end developer in training seeking entry level role, interested in building responsive, interactive, accessible and search engine optimized web. Skilled with HTML5, CSS3, JavaScript, Git & Github with incredible ease of adaptation and learning new technologies as need be.
+I’m a highly motivated Front-end developer highly invested in building responsive user interfaces, accessible websites and web applications. I specialize in JavaScript and have experience working with Git & Github, HTML5, CSS3, Tailwindcss and React with incredible ease of adaptation and learning new technologies as need be.
 
 **Here's a quick summary about me**:
 
