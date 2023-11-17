@@ -8,12 +8,9 @@ I’m a highly motivated Front-end developer highly invested in building respons
 
 **Here's a quick summary about me**:
 
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front-end Developer (Intern or Junior level).
 - 📫 You can contact me by emailing mailtojideotetic@gmail.com
 - 📫 My portfolio is at [jideotetic.github.io](https://jideotetic.github.io/)
-- 📫 You can reach me on twitter at [@habdulbasheet](https://mobile.twitter.com/habdulbasheet)
-- 📫 You can reach me on linkedin at [Jideotetic](https://www.linkedin.com/in/jideotetic/)
 
 ---
 
