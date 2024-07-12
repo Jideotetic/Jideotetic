@@ -4,7 +4,7 @@
 
 I’m a highly motivated Front-end developer highly invested in building responsive user interfaces, accessible websites and web applications. I specialize in JavaScript and have experience working with Git & Github, HTML5, CSS3, Tailwindcss and React with incredible ease of adaptation and learning new technologies as need be.
 
-```
+```js
 interface Person {
   readonly name: string,
   age?: number
