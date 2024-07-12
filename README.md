@@ -4,6 +4,7 @@
 
 I’m a highly motivated Front-end developer highly invested in building responsive user interfaces, accessible websites and web applications. I specialize in JavaScript and have experience working with Git & Github, HTML5, CSS3, Tailwindcss and React with incredible ease of adaptation and learning new technologies as need be.
 
+<!--
 ```ts
 interface Person {
   readonly name: string,
@@ -19,6 +20,7 @@ const jideotetic: Engineer = {
   stack: ["Reactjs", "Nextjs"] 
 }
 ```
+-->
 
 <!--
 ![](https://komarev.com/ghpvc/?username=jideotetic&style=for-the-badge) [![Twitter Badge](https://img.shields.io/badge/-@jideotetic-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/habdulbasheet)](https://twitter.com/jideotetic)  [![Linkedin Badge](https://img.shields.io/badge/-jideotetic-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jideotetic)](https://www.linkedin.com/in/jideotetic) 
