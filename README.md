@@ -4,6 +4,7 @@
 
 I’m a highly motivated Front-end developer highly invested in building responsive user interfaces, accessible websites and web applications. I specialize in JavaScript and have experience working with Git & Github, HTML5, CSS3, Tailwindcss and React with incredible ease of adaptation and learning new technologies as need be.
 
+```
 interface Person {
   readonly name: string,
   age?: number
@@ -12,12 +13,12 @@ interface Engineer extends Person {
   languages: string[],
   stack: string[]
 }
-const tobi: Engineer = {
-  name: "Tobi Adesokan",
-  languages: ["Python", "JS", "TS", "Elixir"],
-  stack: ["Reactjs", "Nextjs", "React Native", "Nodejs", "Express", "MongoDB", "Postgresql", "SQL"] 
+const jideotetic: Engineer = {
+  name: "Abdulbasit Yusuf",
+  languages: ["JS", "TS"],
+  stack: ["Reactjs", "Nextjs"] 
 }
-
+```
 
 <!--
 ![](https://komarev.com/ghpvc/?username=jideotetic&style=for-the-badge) [![Twitter Badge](https://img.shields.io/badge/-@jideotetic-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/habdulbasheet)](https://twitter.com/jideotetic)  [![Linkedin Badge](https://img.shields.io/badge/-jideotetic-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jideotetic)](https://www.linkedin.com/in/jideotetic) 
